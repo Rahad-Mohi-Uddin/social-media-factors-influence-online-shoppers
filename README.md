@@ -1,4 +1,4 @@
-# EXTRACTING SOCIAL MEDIA FACTORS THAT INFLUENCE PURCHASE DECISIONS OF ONLINE SHOPPERS AND MEASURING CORRELATIONS FOR POTENTIAL DIGITAL MARKETING STRATEGY
+# Finding the Social Media Influencing Factors and Their Correlations: A Study on Online Shoppers in Bangladesh
 
 
 # Introduction
